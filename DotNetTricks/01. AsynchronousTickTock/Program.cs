@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AsynchronousTickTock
+namespace _01.AsynchronousTickTock
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {

@@ -1,0 +1,7 @@
+D:\GitRepositories\.net-trickes\DotNetTricks\01. AsynchronousTickTock\bin\Debug\_01.AsynchronousTickTock.exe.config
+D:\GitRepositories\.net-trickes\DotNetTricks\01. AsynchronousTickTock\bin\Debug\_01.AsynchronousTickTock.exe
+D:\GitRepositories\.net-trickes\DotNetTricks\01. AsynchronousTickTock\bin\Debug\_01.AsynchronousTickTock.pdb
+D:\GitRepositories\.net-trickes\DotNetTricks\01. AsynchronousTickTock\obj\Debug\01. AsynchronousTickTock.csprojAssemblyReference.cache
+D:\GitRepositories\.net-trickes\DotNetTricks\01. AsynchronousTickTock\obj\Debug\01. AsynchronousTickTock.csproj.CoreCompileInputs.cache
+D:\GitRepositories\.net-trickes\DotNetTricks\01. AsynchronousTickTock\obj\Debug\_01.AsynchronousTickTock.exe
+D:\GitRepositories\.net-trickes\DotNetTricks\01. AsynchronousTickTock\obj\Debug\_01.AsynchronousTickTock.pdb

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AsynchronousTickTock")]
+[assembly: AssemblyTitle("01. AsynchronousTickTock")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AsynchronousTickTock")]
+[assembly: AssemblyProduct("01. AsynchronousTickTock")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b23b48eb-24b7-4e29-9f73-725ac504ef75")]
+[assembly: Guid("53f4a62e-d9c7-4c3f-922e-45d57e06da9d")]
 
 // Version information for an assembly consists of the following four values:
 //
