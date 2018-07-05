@@ -6,8 +6,12 @@
 **/*.lock
 **/*.suo
 
-*/bin
-*/obj
+**/bin
+**/obj
+
+**/lib
+
+**/packages
 
 # Visual Studio temp something
 *.vs/

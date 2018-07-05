@@ -9,6 +9,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. AsynchronousTickTockAsS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. AsynchronousTickTock", "01. AsynchronousTickTock\01. AsynchronousTickTock.csproj", "{53F4A62E-D9C7-4C3F-922E-45D57E06DA9D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskCompletionSource", "TaskCompletionSource", "{C3B79FFA-2BD8-42BE-B95C-0866FA50B2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCompletionSourceMoreEfficientUse", "TaskCompletionSourceMoreEfficientUse\TaskCompletionSourceMoreEfficientUse.csproj", "{9328FEE3-EF9A-4A3B-91C3-EDF40796E27A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskDataflow", "TaskDataflow", "{EED8135C-2075-4AC9-B8A5-787DB125F529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ProducerConsumerDataFlow", "01. ProducerConsumerDataFlow\01. ProducerConsumerDataFlow.csproj", "{C9ECA7B2-3E66-4B98-ACEB-91947A6BAFD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +31,14 @@ Global
 		{53F4A62E-D9C7-4C3F-922E-45D57E06DA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F4A62E-D9C7-4C3F-922E-45D57E06DA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F4A62E-D9C7-4C3F-922E-45D57E06DA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9328FEE3-EF9A-4A3B-91C3-EDF40796E27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9328FEE3-EF9A-4A3B-91C3-EDF40796E27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9328FEE3-EF9A-4A3B-91C3-EDF40796E27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9328FEE3-EF9A-4A3B-91C3-EDF40796E27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9ECA7B2-3E66-4B98-ACEB-91947A6BAFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ECA7B2-3E66-4B98-ACEB-91947A6BAFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ECA7B2-3E66-4B98-ACEB-91947A6BAFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ECA7B2-3E66-4B98-ACEB-91947A6BAFD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +46,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A1129E99-C3D5-4EB6-A54E-16FC5695F4FE} = {9523CC78-B07D-4B49-9D09-928EBA26D329}
 		{53F4A62E-D9C7-4C3F-922E-45D57E06DA9D} = {9523CC78-B07D-4B49-9D09-928EBA26D329}
+		{9328FEE3-EF9A-4A3B-91C3-EDF40796E27A} = {C3B79FFA-2BD8-42BE-B95C-0866FA50B2EA}
+		{C9ECA7B2-3E66-4B98-ACEB-91947A6BAFD2} = {EED8135C-2075-4AC9-B8A5-787DB125F529}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2787965-4C22-456F-9766-78D04E91B949}
